@@ -1,5 +1,5 @@
-import CounterWithValidation from "./components/01-CounterWithValidation/CounterWithValidation";
+import ToggleVisibilitySimple from "./components/04-ToggleVisibility/ToggleVisibilitySimple";
 
 export default function App() {
-  return <CounterWithValidation />;
+  return <ToggleVisibilitySimple />;
 }
