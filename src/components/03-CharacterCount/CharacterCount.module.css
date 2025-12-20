@@ -1,0 +1,24 @@
+.normal {
+  color: black;
+}
+.warning {
+  color: yellow;
+}
+.danger {
+  color: red;
+}
+
+.container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 50%;
+  border: 1px solid #e5e7eb;
+  margin: 40px auto;
+  background: rgb(190, 132, 132);
+  padding: 24px;
+  border-radius: 8px;
+  width: 300px;
+  text-align: center;
+  box-shadow: 0 8px 24px rgba(0, 0, 0, 0.08);
+}
