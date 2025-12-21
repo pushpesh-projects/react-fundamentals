@@ -1,5 +1,5 @@
-import ToggleVisibilitySimple from "./components/04-ToggleVisibility/ToggleVisibilitySimple";
+import ToDo from "./components/05-ToDoList/ToDo";
 
 export default function App() {
-  return <ToggleVisibilitySimple />;
+  return <ToDo />;
 }
